@@ -11,7 +11,7 @@ To set up the Whiteboard Application on your local machine, follow these steps:
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/whiteboard-application.git
+https://flourishing-paprenjak-cd9b3d.netlify.app/
 2. Navigate to the Project Directory
 bash
 Copy code
